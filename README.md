@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **wordpress_commerce**
 
-- 👨‍💻 All of my projects are available at [@OCARDO](@OCARDO)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Worpress**
 
